@@ -12,5 +12,5 @@ def factorial(value):
         return value * factorial(value - 1)
 
 
-def is_prime(value, option=None):
-    return value % 2
+def IsPrime(value, option=None):
+    return value%2
